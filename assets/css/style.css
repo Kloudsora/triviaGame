@@ -35,7 +35,19 @@ body{
         background-image: url(http://freeandroidwallpaper.gallery/wp-content/uploads/2017/08/WorldOfWarcraftWallpaper_64.jpg);
         background-repeat: no-repeat;
         text-align: center;
-        font-family: "lifeCraft"
+        font-family: "lifeCraft";
+        color: rgba(109, 201, 228);
     }
+
+    #results {
+        font-family: "lifeCraft";
+        color: rgba(109, 201, 228);
+    }
+
+    
+#game{
+    color: rgba(109, 201, 228);
+}
+
 
 }
