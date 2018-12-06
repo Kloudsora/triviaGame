@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://images3.alphacoders.com/108/108819.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-family: "lifeCraft"
+}
+
+.jumbotron{
+    background-color:rgba(109, 201, 228, 0.2);
+    
+}
+
+
+#game{
+    color: rgba(109, 201, 228);
+}
+
+.text-muted{
+	color: rgba(109, 201, 228);
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+#results {
+    font-family: "lifeCraft";
+    color: rgba(109, 201, 228);
+}
+
+@media screen and (max-width: 768px) {
+    body{
+        background-image: url(http://freeandroidwallpaper.gallery/wp-content/uploads/2017/08/WorldOfWarcraftWallpaper_64.jpg);
+        background-repeat: no-repeat;
+        text-align: center;
+        font-family: "lifeCraft"
+    }
+
+}
